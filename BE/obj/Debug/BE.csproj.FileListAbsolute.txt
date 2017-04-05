@@ -1,0 +1,9 @@
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BE\bin\Debug\BE.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BE\bin\Debug\BE.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BE\obj\Debug\BE.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BE\obj\Debug\BE.pdb
+C:\Users\yehuda\Desktop\New folder\BE\bin\Debug\BE.dll
+C:\Users\yehuda\Desktop\New folder\BE\bin\Debug\BE.pdb
+C:\Users\yehuda\Desktop\New folder\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\yehuda\Desktop\New folder\BE\obj\Debug\BE.dll
+C:\Users\yehuda\Desktop\New folder\BE\obj\Debug\BE.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <BE.Order>
+    <number>1</number>
+    <name>op</name>
+    <requiredKashrut>Rabanoot</requiredKashrut>
+    <date>2016-01-18T15:25:29.6239793+02:00</date>
+    <branchNumber>0</branchNumber>
+    <city>Bney Brak</city>
+    <address>nnn</address>
+    <place>ss</place>
+    <creditCard>1111</creditCard>
+    <phoneNumber>0</phoneNumber>
+    <deliverQuickly>true</deliverQuickly>
+    <tipIncluded>false</tipIncluded>
+    <age>20</age>
+  </BE.Order>
+  <BE.Order>
+    <number>2</number>
+    <name>ggg</name>
+    <requiredKashrut>Rabanoot</requiredKashrut>
+    <date>2016-01-18T16:44:54.3113025+02:00</date>
+    <branchNumber>2</branchNumber>
+    <city>222</city>
+    <address>jjj</address>
+    <place>jj</place>
+    <creditCard>1111</creditCard>
+    <phoneNumber>0</phoneNumber>
+    <deliverQuickly>false</deliverQuickly>
+    <tipIncluded>false</tipIncluded>
+    <age>20</age>
+  </BE.Order>
+</Orders>

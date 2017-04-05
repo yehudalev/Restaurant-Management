@@ -1,0 +1,88 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLForms.AddOrderWindow"
+        mc:Ignorable="d"
+        Title="OrderWindow" Height="auto" Width="350">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="Grid.Column" Value="2"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontSize" Value="12"/>
+            <Setter Property="TextWrapping" Value="Wrap"/>
+            <Setter Property="Width" Value="50"/>
+        </Style>
+        
+        
+        <CollectionViewSource x:Key="orderViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Order}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid>
+        <Grid x:Name="grid1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Label VerticalAlignment="Center" Grid.Row="0" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="address:"/>
+            <TextBox x:Name="addressTextBox" Width="120" VerticalAlignment="Center" Text="{Binding address, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="0" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="1" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="age:"/>
+            <TextBox x:Name="ageTextBox" Width="120" VerticalAlignment="Center" Text="{Binding age, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="1" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="2" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="branch Number:"/>
+            <TextBox x:Name="branchNumberTextBox" Width="120" VerticalAlignment="Center" Text="{Binding branchNumber, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="2" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="3" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="city:"/>
+            <TextBox x:Name="cityTextBox" Width="120" VerticalAlignment="Center" Text="{Binding city, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="3" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="4" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="credit Card:"/>
+            <TextBox x:Name="creditCardTextBox"  Width="120" VerticalAlignment="Center" Text="{Binding creditCard, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="4" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="5" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="date:"/>
+            <DatePicker x:Name="dateDatePicker"  VerticalAlignment="Center" SelectedDate="{Binding date, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="5" Margin="3" HorizontalAlignment="Left" Grid.Column="1" />
+            <Label VerticalAlignment="Center" Grid.Row="6" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="deliver Quickly:"/>
+            <CheckBox x:Name="deliverQuicklyCheckBox" VerticalAlignment="Center" Grid.Row="6" Margin="3" IsChecked="{Binding deliverQuickly, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+            <Label VerticalAlignment="Center" Grid.Row="7" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="name:"/>
+            <TextBox x:Name="nameTextBox"  Width="120" VerticalAlignment="Center" Text="{Binding name,  Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="7" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="9" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="phone Number:"/>
+            <TextBox x:Name="phoneNumberTextBox" Width="120" VerticalAlignment="Center" Text="{Binding phoneNumber, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="9" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="10" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="place:"/>
+            <TextBox x:Name="placeTextBox" Width="120" VerticalAlignment="Center" Text="{Binding place, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="10" Margin="3" Height="23" HorizontalAlignment="Left" Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="11" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="required Kashrut:"/>
+            <ComboBox x:Name="requiredKashrutComboBox" Width="120" VerticalAlignment="Center" Grid.Row="11" Margin="3" SelectedItem="{Binding requiredKashrut}"  Height="Auto" HorizontalAlignment="Left"  Grid.Column="1"/>
+            <Label VerticalAlignment="Center" Grid.Row="12" Margin="3" HorizontalAlignment="Left" Grid.Column="0" Content="tip Included:"/>
+            <CheckBox x:Name="tipIncludedCheckBox" VerticalAlignment="Center" Grid.Row="12" Margin="3" IsChecked="{Binding tipIncluded, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" HorizontalAlignment="Left" Grid.Column="1" Content=""/>
+            <Button Grid.Row="13" Content="Add" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="center" Width="150" Height="50" Click="Button_Click"/>
+
+
+            <TextBlock Grid.Row="0"/>
+            <TextBlock Grid.Row="1"/>
+            <TextBlock Grid.Row="2"/>
+            <TextBlock Grid.Row="3"/>
+            <TextBlock Grid.Row="4"/>
+            <TextBlock Grid.Row="5"/>
+            <TextBlock Grid.Row="6"/>
+            <TextBlock Grid.Row="7"/>
+            <TextBlock Grid.Row="8"/>
+            <TextBlock Grid.Row="9"/>
+            <TextBlock Grid.Row="10"/>
+            <TextBlock Grid.Row="11"/>
+            <TextBlock Grid.Row="12"/>
+            
+        </Grid>
+    </Grid>
+</Window>

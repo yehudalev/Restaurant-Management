@@ -1,0 +1,22 @@
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\BL.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\BL.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\BE.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\DAL.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\DS.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\BE.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\DAL.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\bin\Debug\DS.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\obj\Debug\BL.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\BL\obj\Debug\BL.pdb
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\BL.dll
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\BL.pdb
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\BE.dll
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\DAL.dll
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\DS.dll
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\BE.pdb
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\DAL.pdb
+C:\Users\yehuda\Desktop\New folder\BL\bin\Debug\DS.pdb
+C:\Users\yehuda\Desktop\New folder\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\yehuda\Desktop\New folder\BL\obj\Debug\BL.dll
+C:\Users\yehuda\Desktop\New folder\BL\obj\Debug\BL.pdb

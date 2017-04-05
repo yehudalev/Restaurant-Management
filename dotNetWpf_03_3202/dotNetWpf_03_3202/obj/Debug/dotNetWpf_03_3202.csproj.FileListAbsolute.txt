@@ -1,0 +1,34 @@
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\bin\Debug\dotNetWpf_03_3202.exe.config
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\bin\Debug\dotNetWpf_03_3202.exe
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\bin\Debug\dotNetWpf_03_3202.pdb
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.csprojResolveAssemblyReference.cache
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\MainWindow.g.cs
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\PrinterUserControl.g.cs
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\App.g.cs
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202_MarkupCompile.cache
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202_MarkupCompile.lref
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\MainWindow.baml
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\PrinterUserControl.baml
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.g.resources
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.Properties.Resources.resources
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.csproj.GenerateResource.Cache
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.exe
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.pdb
+C:\Users\moshe\Documents\לימודים\שנה ב\סמסטר א\מיני פרויקט במערכות חלונות\תרגילים\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\bin\Debug\dotNetWpf_03_3202.exe.config
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.exe
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.pdb
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\bin\Debug\dotNetWpf_03_3202.exe
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\bin\Debug\dotNetWpf_03_3202.pdb
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.csprojResolveAssemblyReference.cache
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\MainWindow.g.cs
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\PrinterUserControl.g.cs
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\App.g.cs
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202_MarkupCompile.cache
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202_MarkupCompile.lref
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\MainWindow.baml
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\PrinterUserControl.baml
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.g.resources
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.Properties.Resources.resources
+C:\Users\Mendi-PC\Downloads\dotNetWpf_03_3202\dotNetWpf_03_3202\obj\Debug\dotNetWpf_03_3202.csproj.GenerateResource.Cache

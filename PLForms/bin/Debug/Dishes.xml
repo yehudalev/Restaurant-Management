@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dishes>
+  <BE.Dish>
+    <number>1</number>
+    <name>pizza</name>
+    <size>Big</size>
+    <price>0</price>
+    <kashrut>Rabanoot</kashrut>
+    <discount>0</discount>
+  </BE.Dish>
+  <BE.Dish>
+    <number>2</number>
+    <name>falafel</name>
+    <size>Medium</size>
+    <price>5</price>
+    <kashrut>Lando</kashrut>
+    <discount>0</discount>
+  </BE.Dish>
+</Dishes>

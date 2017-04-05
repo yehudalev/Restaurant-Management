@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OrderedDishes>
+  <BE.Ordered_Dish>
+    <orderNumber>1</orderNumber>
+    <dishNumber>1</dishNumber>
+    <amount>6</amount>
+  </BE.Ordered_Dish>
+  <BE.Ordered_Dish>
+    <orderNumber>1</orderNumber>
+    <dishNumber>2</dishNumber>
+    <amount>10</amount>
+  </BE.Ordered_Dish>
+</OrderedDishes>

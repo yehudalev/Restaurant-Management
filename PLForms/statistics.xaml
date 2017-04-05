@@ -1,0 +1,53 @@
+﻿<Window x:Class="PLForms.statistics"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        mc:Ignorable="d"
+        Title="statistics" Height="auto" Width="auto">
+    <Window.Resources>
+        <DataTemplate x:Key="myTemplate">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="{Binding Key}" HorizontalAlignment="Center" FontSize="20"/>
+                    <Label>Group Size</Label>
+                    <TextBlock Text="{Binding Count}" VerticalAlignment="Center" FontSize="20" />
+                </StackPanel>
+
+                <DataGrid Grid.Row="1" ItemsSource="{Binding}" />
+
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="ordersComboBox" Grid.Row="1" SelectionChanged="ordersComboBox_SelectionChanged">
+            <ComboBoxItem Content="City" />
+            <ComboBoxItem Content="Profit Range" />
+            <ComboBoxItem Content="Month" />
+        </ComboBox>
+        <ComboBox x:Name="disheshComboBox" Grid.Row="1" Grid.Column="1" SelectionChanged="disheshComboBox_SelectionChanged">
+            <ComboBoxItem Content="Kashrut" />
+            <ComboBoxItem Content="Size" />
+            <ComboBoxItem Content="Item 3" />
+        </ComboBox>
+        <Label Content="Orders Group by:" FontSize="15" Background="Aqua"/>
+        <Label Content="Dishes Group by:" FontSize="15" Background="Aqua" Grid.Column="1"/>
+        <ListBox x:Name="orderListBox" ItemTemplate="{StaticResource myTemplate}" Grid.Row="2"/>
+        <ListBox x:Name="dishListBox" ItemTemplate="{StaticResource myTemplate}" Grid.Row="2" Grid.Column="2"/>
+
+    </Grid>
+</Window>

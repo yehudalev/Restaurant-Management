@@ -1,0 +1,78 @@
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\PLForms.exe
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\PLForms.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\BE.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\BL.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\DS.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\DAL.dll
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\BE.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\BL.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\DS.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\bin\Debug\DAL.pdb
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\AddBranchWindow.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\AddDishWindow.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\AddOrderWindow.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\Manager.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\statistics.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\UpdateBranchWindow.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\UpdateDishWindow.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\UpdateOrder.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\App.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\AddBranchWindow.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\AddDishWindow.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\MainWindow.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\AddOrderWindow.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\Manager.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\statistics.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\UpdateBranchWindow.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\UpdateDishWindow.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\UpdateOrder.baml
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms.exe
+C:\Users\Israel\Documents\שנה ב' סמסטר א'\c#\מוצאי שבת שבט פרויקט\0.3\1.3\1.3\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms.exe
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\PLForms.exe
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\PLForms.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\BE.dll
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\BL.dll
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\DS.dll
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\DAL.dll
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\BE.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\BL.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\DS.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\bin\Debug\DAL.pdb
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\AddBranchWindow.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\AddDishWindow.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\AddOrderWindow.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\Manager.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\statistics.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\UpdateBranchWindow.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\UpdateDishWindow.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\UpdateOrder.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\App.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\AddBranchWindow.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\AddDishWindow.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\MainWindow.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\AddOrderWindow.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\Manager.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\statistics.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\UpdateBranchWindow.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\UpdateDishWindow.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\UpdateOrder.baml
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\yehuda\Desktop\New folder\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
